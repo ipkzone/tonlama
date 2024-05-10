@@ -15,3 +15,7 @@ get running my script
 php ton.php
 done
 
+
+*Note: Script encrypt with HMSC v2*
+*For installasi keep running file libs-hmsc.php for running tools*
+
